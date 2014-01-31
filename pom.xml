@@ -107,7 +107,7 @@
 		</repository>
 		<repository>
 			<id>Personal</id>
-			<url>http://maven-repository.smurfdad.googlecode.com/git</url>
+			<url>https://github.com/smurfdad/maven-repository/raw/master</url>
 		</repository>
 	</repositories>
 </project>
